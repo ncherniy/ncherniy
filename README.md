@@ -1,7 +1,7 @@
 ## Привет 👋, меня зовут Коля и я начинающий  аналитик данных
 
 <div align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://sdo.pgups.ru/pluginfile.php/51908/course/overviewfiles/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.jpg" width="770" height="600" alt="Python" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://sdo.pgups.ru/pluginfile.php/51908/course/overviewfiles/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.jpg" width="330" height="300" alt="Python" /></a>
   <br>
   <a href="https://vk.me/ncherniyy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=vk&logo=vk&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vk logo"  />
