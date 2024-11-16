@@ -4,7 +4,7 @@
 
 <div align="center">
   <a><img src="https://avatars.mds.yandex.net/i?id=2fe95bc1e5015d2c8f8abecc5dad399c_l-10090660-images-thumbs&n=13" width="330" height="200" alt="Python" /></a>
-  <br>
+
   <div align="left"
     <h4>Мои контакты:</h4></div>
   <a href="https://vk.me/ncherniyy" target="_blank">
@@ -17,10 +17,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
-
-<br>
-<br>
-<br>
 <br>
 
 <h3>Основные языки программирования:</h3>
@@ -77,10 +73,10 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Анализ рекламных компаний](https://github.com/ncherniy/Prj1-analysis_of_ads_camps)|Предобработка данных, выявление аномалий,подсчет конверсии,деление пользователей на группы, join таблиц|**Pandas** **Numpy** **Seaborn** **Plotly**|
-  |[Анализ продуктовых метрик мобильного приложения](https://github.com/DimDolino/Gamedev_analysis)|Формирование когорт по дате регистрации в приложении, проведение А/B теста и bootstrap для определения значимости изменений в ARPU и ARPPU, формирование группы метрик при изменении механики приложения.|**Pandas** **Numpy** **Scipy** **Tdqm** **Seaborn** **Requests**|
-|[Анализ e-learning продукта](https://github.com/DimDolino/E-learning_project)|Формирование файлов с данными, предобработка данных, формирование рейтингов и антирейтигов курсов, анализ успеваемости студентов.|**Pandas** **Numpy** **Requests**|
-|[Исследуем набор карт Magic The Gathering](https://github.com/DimDolino/Magic_the_Gathering)|Обрабатываем данные, формируем графики для ответа на вопросы о составе набора для выпуска нового дополнения к игре|**Pandas** **Numpy** **Ast**|
-|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/dmitriy7276/viz/KarpovDashboardPractice_16519275094660/SalesMonthlyOverview) и [Yandex Datalens](https://datalens.yandex.ru/syjtr3o11ppwi-profit-overview)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau** **Yandex Datalens**|
+|[Анализ базы заказов маркетплейса](https://github.com/ncherniy/analysis_marketplace)|Формирование когорт по дате регистрации в приложении, построение тепловой карты, RFM-сегментация|**Pandas** **Seaborn** **Jupiter_notebook**|
+|[]()||**Pandas** **Numpy** **Requests**|
+|[]()||**Pandas** **Numpy** **Ast**|
+|Создаем Дашборд для визуализации ключевых процессов в [Tableau]()|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**|
 
 
 
