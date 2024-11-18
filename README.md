@@ -63,6 +63,7 @@
 <li>Формирование дашбордов
 <li>Расчет ключевых метрик продукта: retention, conversion, churn rate , ARPU, LTV, СРО, CTR, СPC, MAU, DAU
 <li>Автоматизация процессов через Airflow
+<li>Подключение к API
 </ul>
 
 <br>
@@ -74,9 +75,9 @@
 |----------------|-----------------|-----|
 |[Анализ рекламных компаний](https://github.com/ncherniy/Prj1-analysis_of_ads_camps)|Предобработка данных, выявление аномалий,подсчет конверсии,деление пользователей на группы, join таблиц|**Pandas** **Numpy** **Seaborn** **Plotly**|
 |[Анализ базы заказов маркетплейса](https://github.com/ncherniy/analysis_marketplace)|Формирование когорт по дате регистрации в приложении, построение тепловой карты, RFM-сегментация|**Pandas** **Seaborn** **Jupiter_notebook**|
-|[]()||**Pandas** **Numpy** **Requests**|
-|[]()||**Pandas** **Numpy** **Ast**|
-|Создаем Дашборд для визуализации ключевых процессов в [Tableau]()|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**|
+|[Анализ базы данных водителей такси](https://github.com/ncherniy/Prj-3_A-B_test_TaxiService)|Анализ метрики Churn rate/ Выявление взаимосвязи|**Pandas** **Seaborn** **Plotly** **Scipy** **Pingouin**|
+|[Автоматизация сбора данных](https://github.com/ncherniy/Prj4-airflow-automatization)|Настройка автоматического сбора и обработки данных и настройка отбивки о результате в телеграмм|**Python** **Airflow** **API**|
+|[Анализ базы аутентификаций игроков](https://github.com/ncherniy/Prj5-GameAnalysis)| Анализ базы игроков, функция расчета retention по заданным периодам, A\B тест двух наборов акционных предложений |**Pandas** **Seaborn** **Pingouin** |
 
 
 
