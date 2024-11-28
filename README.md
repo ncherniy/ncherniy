@@ -30,7 +30,7 @@
 <h3>Библиотеки и инструменты:</h3>
 <p align="left">
   <a href="https://jupiter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/640px-Jupyter_logo.svg.png" width="36" height="36" alt="jupiter-notebook" /></a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png" width="36" height="36" alt="Airflow" /></a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"><img src="https://publish-01.obsidian.md/access/e5408ef24c9251b993f742b19645ad44/Assets/apache-airflow-logo.png" width="36" height="36" alt="Airflow" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://yt3.googleusercontent.com/lA7DqITEak071NQ3S1rqmPICfHFg7ZQhXvmEAxnqEpVzlZR2sW8gYE9B5hK9L4VwaBVdwxzK=s900-c-k-c0x00ffffff-no-rj" width="45" height="40" alt="tableau" /></a>
